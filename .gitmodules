@@ -1,0 +1,3 @@
+[submodule "freeswitch"]
+	path = freeswitch
+	url = https://github.com/SIPfoundry/freeswitch
